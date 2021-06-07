@@ -1,5 +1,5 @@
 
-function logIN(e){
+function logIN(){
     var playername1;
     var playername2;
     playername1=document.getElementById("player1_name_input").value;
